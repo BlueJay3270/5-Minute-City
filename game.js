@@ -20,8 +20,8 @@ function update() {
 
 const config = {
 	type: Phaser.AUTO,
-	width: 900,
-	height: 500,
+	width: 1300,
+	height: 550,
 	backgroundColor: "0fb83c",
 	physics: {
 		default: 'arcade',
